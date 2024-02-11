@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Porfolio</h2>
+<h2 align="left">Portfolio</h2>
 
 ###
 
