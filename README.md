@@ -47,8 +47,17 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
+  <img src="https://seeklogo.com/images/C/coreldraw-x7-logo-747B0DC253-seeklogo.com.png" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<h2 align="left">Porfolio</h2>
+
+###
+
 
 ###
 
