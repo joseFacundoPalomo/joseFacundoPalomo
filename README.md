@@ -4,6 +4,10 @@
 
 <p align="left"></p>
 
+
+<p>Me considero una persona responsable , dinámica y creativa, con muchas ganas de trabajar ,crecer y aprender.<br>
+Busco poner en práctica todos los conocimientos adquiridos durante mi formación y formar parte de una empresa que me permita desarrollarme personal y profesionalmente.</p>
+
 ###
 
 <h2 align="left">Sobre mí</h2>
