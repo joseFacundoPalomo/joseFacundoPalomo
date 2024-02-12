@@ -5,8 +5,9 @@
 <p align="left"></p>
 
 
-<p>Me considero una persona responsable , dinámica y creativa, con muchas ganas de trabajar ,crecer y aprender.<br>
-Busco poner en práctica todos los conocimientos adquiridos durante mi formación y formar parte de una empresa que me permita desarrollarme personal y profesionalmente.</p>
+<p>Hola! Soy José Facundo Palomo tengo 31 años , actualmente estudio la carrera de Técnico en Programación en Utn Facultad Regional San Rafael. Poseo conocimientos en Html, Css, JavaScript, Php, Sql, Bootstrap y Git. 
+Mi tiempo libre lo invierto en aprender nuevas herramientas y tecnologías, tanto de front-end y back-end.
+Me considero una persona responsable, trabajadora y dedicada, con muchas ganas de aprender y crecer profesionalmente.</p>
 
 ###
 
