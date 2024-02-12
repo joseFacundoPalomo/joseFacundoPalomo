@@ -5,8 +5,12 @@
 <p align="left"></p>
 
 
-<p>Hola! Soy José Facundo Palomo tengo 31 años , actualmente estudio la carrera de Técnico en Programación en Utn Facultad Regional San Rafael. Poseo conocimientos en Html, Css, JavaScript, Php, Sql, Bootstrap y Git. <br>
-En mi tiempo libre me gusta aprender e investigar nuevas herramientas y tecnologías, tanto de front-end y back-end.<br>
+<p>Hola! Soy José Facundo Palomo tengo 31 años , actualmente estudio la carrera de Técnico en Programación en Utn Facultad Regional San Rafael. Poseo conocimientos en Html, Css, JavaScript, Php, Sql, Bootstrap y Git. 
+<br>
+<br>
+En mi tiempo libre me gusta aprender e investigar nuevas herramientas y tecnologías, tanto de front-end y back-end.
+<br>
+<br>  
 Me considero una persona responsable, trabajadora y dedicada, con muchas ganas de aprender y crecer profesionalmente.</p>
 
 ###
