@@ -15,14 +15,6 @@ Me considero una persona responsable, trabajadora y dedicada, con muchas ganas d
 
 ###
 
-<h2 align="left">Sobre mí</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <h2 align="left">Tecnologías</h2>
 
 ###
