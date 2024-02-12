@@ -1,4 +1,4 @@
-<h1 align="left">Hola! , me llamo José Facundo Palomo 👋</h1>
+<h1 align="left">Hola!👋</h1>
 
 ###
 
