@@ -57,7 +57,6 @@ Me considero una persona responsable, trabajadora y dedicada, con muchas ganas d
 
 ###
 
-<h2 align="left">Portfolio</h2>
 
 ###
 
